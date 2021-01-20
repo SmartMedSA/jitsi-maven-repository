@@ -3,11 +3,11 @@
   <groupId>com.facebook.react</groupId>
   <artifactId>react-native-splash-screen</artifactId>
   <versioning>
-    <latest>3.2.0-jitsi-6475885</latest>
-    <release>3.2.0-jitsi-6475885</release>
+    <latest>3.2.0-jitsi-6485452</latest>
+    <release>3.2.0-jitsi-6485452</release>
     <versions>
-      <version>3.2.0-jitsi-6475885</version>
+      <version>3.2.0-jitsi-6485452</version>
     </versions>
-    <lastUpdated>20210119113418</lastUpdated>
+    <lastUpdated>20210120140845</lastUpdated>
   </versioning>
 </metadata>
